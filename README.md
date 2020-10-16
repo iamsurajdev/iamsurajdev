@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajbiswas367" alt="surajbiswas367" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Lots of things ⚡**
 
-- 👨‍💻 All of my projects are available at [http://surajdev.netlify.app/](http://surajdev.netlify.app/)
+- 👨‍💻 All of my projects are available at [http://surajdev.netlify.app/](http://iamsurajdev.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React**
 
@@ -21,11 +21,11 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
 </p>
   
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajbiswas367&layout=compact&hide=html" alt="surajbiswas367" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsurajdev&layout=compact&hide=html" alt="iamsurajdev" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajbiswas367&show_icons=true" alt="surajbiswas367" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsurajdev&show_icons=true" alt="iamsurajdev" /></p>
 
 <p align="center">
-<a href="https://instagram.com/iamsuraj.pt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamsuraj.pt" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/suraj-biswas-824bb4176/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamsuraj.pt" height="30" width="30" /></a>
+<a href="https://instagram.com/iamsuraj_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamsuraj_dev" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/suraj-biswas-824bb4176/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamsuraj_dev" height="30" width="30" /></a>
 </p>
