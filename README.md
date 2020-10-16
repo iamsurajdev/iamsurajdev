@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Lots of things ⚡**
 
-- 👨‍💻 All of my projects are available at [http://surajdev.netlify.app/](http://iamsurajdev.netlify.app/)
+- 👨‍💻 All of my projects are available at [http://iamsurajdev.netlify.app/](http://iamsurajdev.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React**
 
