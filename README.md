@@ -28,4 +28,5 @@
 <p align="center">
 <a href="https://instagram.com/iamsuraj_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamsuraj_dev" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/suraj-biswas-824bb4176/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamsuraj_dev" height="30" width="30" /></a>
+   <a href="https://www.youtube.com/channel/UClS_wbN0kW0KtVop9EgZLAg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="iamsuraj" height="30" width="30" /></a>
 </p>
