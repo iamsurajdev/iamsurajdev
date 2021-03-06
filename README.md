@@ -1,4 +1,4 @@
-<h3 align="center">Hello there, I'm Suraj</h3>
+<h3 align="center">Hello there, I'm Suraj 🚀</h3>
 <h5 align="center">A passionate programmer from India</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajbiswas367" alt="surajbiswas367" /> </p>
@@ -33,3 +33,8 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+***
+
+📈 My GitHub Stats 🚀
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsurajdev&count_private=false&show_icons=true&theme=dark&locale=en"/>
