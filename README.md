@@ -20,13 +20,13 @@
 
 ## Some Useful things I created as personal project 🔥
 
-* [Colorly](https://colorlyui.netlify.app/) - 🎨 A all in one color picker solution, you can create your own color, selct from hand picked colors etc
+* [**Colorly**](https://colorlyui.netlify.app/) - 🎨 A all in one color picker solution, you can create your own color, selct from hand picked colors etc
 
-* [Typing Test One](https://typingtestone.netlify.app/) - ⌨ A One minute typing challenge 
+* [**Typing Test One**](https://typingtestone.netlify.app/) - ⌨ A One minute typing challenge 
 
-* [My coustom VS-code setupo](https://github.com/iamsurajdev/vscode-config) - 🛠 If you use VS-code as your editor you will ❤ this
+* [**My coustom VS-code setup**](https://github.com/iamsurajdev/vscode-config) - 🛠 If you use VS-code as your editor you will ❤ this
 
-* [Corona Tracker](https://coronatrackerbysurajdev.netlify.app/) - 🤮 A corona tracker with live data showing corona statistics with charts
+* [**Corona Tracker**](https://coronatrackerbysurajdev.netlify.app/) - 🤮 A corona tracker with live data showing corona statistics with charts
 
 <div align="center">
   
