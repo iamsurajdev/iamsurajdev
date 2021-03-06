@@ -13,6 +13,11 @@
 
 - ⚡ Fun fact **I don't drink coffee or chai**
 
+
+[![Twitter: iamsuraj_dev](https://img.shields.io/twitter/follow/iamsuraj_dev?style=social)](https://twitter.com/iamsuraj_dev)
+[![Linkedin: Suraj Biswas](https://img.shields.io/badge/-Suraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-biswas-824bb4176/)](https://www.linkedin.com/in/suraj-biswas-824bb4176/)
+[![GitHub iamsurajdev](https://img.shields.io/github/followers/iamsurajdev?label=follow&style=social)](https://github.com/iamsurajdev)
+
 ## Some Useful things I created as personal project 🔥
 
 * [Colorly](https://colorlyui.netlify.app/) - 🎨 A all in one color picker solution, you can create your own color, selct from hand picked colors etc
@@ -22,3 +27,9 @@
 * [My coustom VS-code setupo](https://github.com/iamsurajdev/vscode-config) - 🛠 If you use VS-code as your editor you will ❤ this
 
 * [Corona Tracker](https://coronatrackerbysurajdev.netlify.app/) - 🤮 A corona tracker with live data showing corona statistics with charts
+
+<div align="center">
+  
+### Show some ❤️ by starring some of the repositories!
+
+</div>
