@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Lots of things ⚡**
 
-- 👨‍💻 My website [Link 🌐](http://iamsurajdev.netlify.app/)
+- 👨‍💻 My website [Link 🌐](https://www.iamsurajdev.in/)
 
 - 💬 Ask me about **JavaScript, React, Self-taught Programming, Team Managment**
 
