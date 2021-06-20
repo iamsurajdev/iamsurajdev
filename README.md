@@ -24,6 +24,8 @@
 
 * [**Typing Test One**](https://typingtestone.netlify.app/) - ⌨ A One minute typing challenge 
 
+* [**Image Gallery**](https://pixabayimagegallery.netlify.app/) - 🎴 Search for high quality images and Download  
+
 * [**My coustom VS-code setup**](https://github.com/iamsurajdev/vscode-config) - 🛠 If you use VS-code as your editor you will ❤ this
 
 * [**Corona Tracker**](https://coronatrackerbysurajdev.netlify.app/) - 🤮 A corona tracker with live data showing corona statistics with charts
