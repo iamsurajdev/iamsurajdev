@@ -7,7 +7,7 @@
 
 - 👨‍💻 My website [Link 🌐](https://www.iamsurajdev.in/)
 
-- 📑 Checkut my blogs [Link 🌐](https://medium.com/@iamsurajdev) 
+- 📑 Checkut my blogs [Medium 🌐](https://medium.com/@iamsurajdev) 
 
 - 💬 Ask me about **JavaScript, React, Self-taught Programming, Team Managment**
 
