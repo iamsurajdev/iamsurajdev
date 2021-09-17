@@ -7,6 +7,8 @@
 
 - 👨‍💻 My website [Link 🌐](https://www.iamsurajdev.in/)
 
+- 📑 Checkut my blogs [Link 🌐](https://medium.com/@iamsurajdev) 
+
 - 💬 Ask me about **JavaScript, React, Self-taught Programming, Team Managment**
 
 - 📫 How to reach me 👉 [Instagram](https://www.instagram.com/iamsuraj_dev/), [LinkedIn](https://www.linkedin.com/in/suraj-biswas-824bb4176/), [Twitter](https://twitter.com/iamsuraj_dev), or **surajbiswas367@gmail.com**
