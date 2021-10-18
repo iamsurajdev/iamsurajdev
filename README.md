@@ -24,6 +24,8 @@
 
 * [**Colorly**](https://colorlyui.netlify.app/) - 🎨 A all in one color picker solution, you can create your own color, selct from hand picked colors etc
 
+* [**Pokemon Wiki**](https://pokemonwiki.vercel.app/) - 🧚🏾 Information about pokemon with nice UI, and you can find every pokemon you ever want to see
+
 * [**Typing Test One**](https://typingtestone.netlify.app/) - ⌨ A One minute typing challenge 
 
 * [**Image Gallery**](https://pixabayimagegallery.netlify.app/) - 🎴 Search for high quality images and Download  
