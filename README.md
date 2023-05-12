@@ -34,8 +34,6 @@
 
 * [**CSS Art**](https://github.com/iamsurajdev/css-art) - 🎨 Some pictures I draw purely with coustom CSS
 
-* [**Corona Tracker**](https://coronatrackerbysurajdev.netlify.app/) - 🤮 A corona tracker with live data showing corona statistics with charts
-
 * [**React Redux Boilerplate**](https://github.com/iamsurajdev/react-redux-boilerplate) - ⚡ A highly scalable boilerplate with best practices
 
 <div align="center">
