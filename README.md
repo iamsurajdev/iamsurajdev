@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Lots of things ⚡**
 
-- 👨‍💻 My website [Link 🌐](https://www.iamsurajdev.in/)
-
 - 📑 Checkut my blogs [Medium 🌐](https://medium.com/@iamsurajdev) 
 
 - 💬 Ask me about **JavaScript, React, Self-taught Programming, Team Managment**
