@@ -42,6 +42,3 @@
 
 ***
 
-📈 My GitHub Stats 🚀
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsurajdev&count_private=false&show_icons=true&theme=dark&locale=en"/>
