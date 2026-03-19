@@ -1,44 +1,38 @@
-<h3 align="center">Hello there, I'm Suraj 🚀</h3>
-<h5 align="center">A passionate programmer from India</h5>
+<h3 align="center">Suraj Biswas</h3>
+<h5 align="center">Senior Full Stack Engineer | Multi-Tenant SaaS | TypeScript, Node.js, React, PostgreSQL</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajbiswas367" alt="surajbiswas367" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsurajdev" alt="iamsurajdev" /> </p>
 
-- 🌱 I’m currently learning **Lots of things ⚡**
+I'm a self-taught Senior Full Stack Engineer with 5+ years of experience building multi-tenant SaaS platforms in compliance-heavy domains - fintech, healthtech, manufacturing, logistics, and government. No CS degree. Everything I know came from building real products and solving real problems.
 
-- 📑 Checkut my blogs [Medium 🌐](https://medium.com/@iamsurajdev) 
+I've architected schema-isolated PostgreSQL systems, configurable RBAC frameworks (150+ permissions), multi-level approval workflows, and trigger-based audit logging for platforms supporting 10+ tenants and ~10K daily users. Beyond engineering, I've led technical discovery sessions and presales calls with international clients across industries.
 
-- 💬 Ask me about **JavaScript, React, Self-taught Programming, Team Managment**
+Currently looking for remote-first Senior Full Stack or Founding Engineer roles.
 
-- 📫 How to reach me 👉 [Instagram](https://www.instagram.com/iamsuraj_dev/), [LinkedIn](https://www.linkedin.com/in/iamsurajdev/), [Twitter](https://twitter.com/iamsuraj_dev), or **surajbiswas367@gmail.com**
+---
 
-- ⚡ Fun fact **I don't drink coffee or chai**
+**Writing**
 
+I write about real architecture decisions and engineering tradeoffs on Medium.
 
-[![Twitter: iamsuraj_dev](https://img.shields.io/twitter/follow/iamsuraj_dev?style=social)](https://twitter.com/iamsuraj_dev)
-[![Linkedin: Suraj Biswas](https://img.shields.io/badge/-Suraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-biswas-824bb4176/)](https://www.linkedin.com/in/suraj-biswas-824bb4176/)
-[![GitHub iamsurajdev](https://img.shields.io/github/followers/iamsurajdev?label=follow&style=social)](https://github.com/iamsurajdev)
+- [How We Built a Multi-Tenant SaaS Platform for Regulated Fintech Across Two Countries](https://medium.com/@iamsurajdev/how-we-built-a-multi-tenant-saas-platform-for-regulated-fintech-across-two-countries-4d772614f26d)
+- [Why Standard Role Systems Break in Multi-Tenant SaaS and What We Built Instead](https://medium.com/@iamsurajdev)
 
-## Some Useful things I created as personal project 🔥
+---
 
-* [**Colorly**](https://colorlyui.netlify.app/) - 🎨 A all in one color picker solution, you can create your own color, selct from hand picked colors etc
+**Stack**
 
-* [**Pokemon Wiki**](https://pokemonwiki.vercel.app/) - 🧚🏾 Information about pokemon with nice UI, and you can find every pokemon you ever want to see
+- Frontend: TypeScript, React, Next.js, TailwindCSS
+- Backend: Node.js, Express, REST APIs, GraphQL
+- Databases: PostgreSQL, MongoDB
+- Infrastructure: AWS, Azure, CI/CD
 
-* [**Typing Test One**](https://typingtestone.netlify.app/) - ⌨ A One minute typing challenge 
+---
 
-* [**Image Gallery**](https://pixabayimagegallery.netlify.app/) - 🎴 Search for high quality images and Download  
+**Connect**
 
-* [**My coustom VS-code setup**](https://github.com/iamsurajdev/vscode-config) - 🛠 If you use VS-code as your editor you will ❤ this 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamsurajdev/)](https://www.linkedin.com/in/iamsurajdev/)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@iamsurajdev)](https://medium.com/@iamsurajdev)
+[![Twitter](https://img.shields.io/twitter/follow/iamsuraj_dev?style=social)](https://twitter.com/iamsuraj_dev)
 
-* [**CSS Art**](https://github.com/iamsurajdev/css-art) - 🎨 Some pictures I draw purely with coustom CSS
-
-* [**React Redux Boilerplate**](https://github.com/iamsurajdev/react-redux-boilerplate) - ⚡ A highly scalable boilerplate with best practices
-
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-***
-
+📫 surajbiswas367@gmail.com
