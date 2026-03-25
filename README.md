@@ -24,15 +24,6 @@ Currently looking for a remote-first Senior Full Stack or Founding Engineer role
 
 ---
 
-**What I write about**
-
-Real architecture decisions. Real tradeoffs. No generic tutorials.
-
-- [How We Built a Multi-Tenant SaaS Platform for Regulated Fintech Across Two Countries](https://medium.com/@iamsurajdev/how-we-built-a-multi-tenant-saas-platform-for-regulated-fintech-across-two-countries-4d772614f26d)
-- [Why Standard Role Systems Break in Multi-Tenant SaaS and What We Built Instead](https://medium.com/@iamsurajdev)
-
----
-
 **Stack**
 ```
 Frontend   → TypeScript · React · Next.js · TailwindCSS
